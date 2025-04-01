@@ -20,6 +20,7 @@ Enter a search query.
 Click search.
 
 Verify results appear.
+next task is
 
 
 
