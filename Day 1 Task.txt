@@ -1,0 +1,35 @@
+                 Task 1. 
+    Automate Login for a Web Application(Use any Website)
+Open the login page.
+
+Enter username and password.
+
+Click the login button.
+
+Verify if the login was successful.
+
+
+                   Task 2
+
+
+ Perform Google Search and Validate Results
+Open Google.
+
+Enter a search query.
+
+Click search.
+
+Verify results appear.
+
+
+
+                     Task 3
+
+ Navigate Between Pages and Validate Titles(Use Any Website)
+Open a website.
+
+Click a link.
+
+Navigate back and forth.
+
+Verify page titles.
